@@ -1,1 +1,1 @@
-# SmartKB
+# SmartKB 智能知识库
